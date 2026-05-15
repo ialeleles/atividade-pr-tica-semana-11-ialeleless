@@ -12,5 +12,7 @@ Vamos dar um exemplo, se você escolheu o Portal de notícias locais, então sua
 - Breve descrição sobre seu projeto: O projeto Skate Hub é um site para fãs de skate que querem aprender manobras de acordo com o seu nível de habilidade. Além disso, o site conta com o filtro de acordo com o nível de dificuldade das manobras, para facilitar os usuários.
 
 ## Print da home-page com a opção detalhes (*)
+![alt text](printhomepage.png)
 
 ## Print da tela de detalhes (*)
+![alt text](printteladedetalhes.png)
